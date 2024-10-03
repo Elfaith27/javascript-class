@@ -1,14 +1,14 @@
 
 // - Write a function that checks if a string is empty
-function Isstringempty(length){
-    return length==0;
+function isStringEmpty(str){
+    return str.length==0;
 }
-console.log(Isstringempty(0))
+console.log('isStringEmpty:',isStringEmpty(""))
 //- ⁠Implement a function that doubles a number
-function doubling(number){
+function doubleNumber(number){
     return number*2
 }
-console.log(doubling(7))
+console.log(doubleNumber(7))
 //- ⁠Create a function that checks if a number is zero
 function Iszero(number){
     return number==0;
