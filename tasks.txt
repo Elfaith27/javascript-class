@@ -1,0 +1,6 @@
+04/10/2024
+- A function that checks if a number is prime
+- A function that reverses the words in a sentence
+- A function that finds the average of an array of numbers
+- A function that checks if a year is a leap year
+- A function that removes a specific element from an array
